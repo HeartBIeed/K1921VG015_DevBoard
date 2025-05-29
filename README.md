@@ -11,7 +11,7 @@
 
 D+ и D- на юсб имеют вывода под резисторы подтяжки к VCC и CND соответстввенно.
 
-[GERBER](https://github.com/HeartBIeed/KP1921VG015/blob/main/Src/Gerber_KP1921VG015.zip)
+[GERBER](https://github.com/HeartBIeed/KP1921VG015/blob/main/Src/Gerber_PCB1_2025-05-29.zip)
 
 [Файл проекта для EasyEDA Pro](https://github.com/HeartBIeed/KP1921VG015/blob/main/Src/KP1921VG015_v.1.0.epro)
 
