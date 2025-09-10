@@ -13,6 +13,8 @@
 
 [Файл проекта для EasyEDA Pro](https://github.com/HeartBIeed/KP1921VG015/blob/main/Src/KP1921VG015.epro)
 
+Ссылка на проект:
+https://oshwlab.com/starikov.dmitriy/kp1921vg015
 ____________
 
 ![alt text](https://github.com/HeartBIeed/KP1921VG015/blob/main/Img/top2.png)
