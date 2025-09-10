@@ -9,20 +9,20 @@
 
 
 
-[GERBER](https://github.com/HeartBIeed/KP1921VG015/blob/main/Src/Gerber.zip)
+[GERBER](https://github.com/HeartBIeed/K1921VG015/blob/main/Src/Gerber.zip)
 
-[Файл проекта для EasyEDA Pro](https://github.com/HeartBIeed/KP1921VG015/blob/main/Src/KP1921VG015.epro)
+[Файл проекта для EasyEDA Pro](https://github.com/HeartBIeed/KP1921VG015/blob/main/Src/K1921VG015.epro)
 
 Ссылка на проект:
-https://oshwlab.com/starikov.dmitriy/kp1921vg015
+https://oshwlab.com/starikov.dmitriy/k1921vg015
 ____________
 
-![alt text](https://github.com/HeartBIeed/KP1921VG015/blob/main/Img/top2.png)
+![alt text](https://github.com/HeartBIeed/K1921VG015/blob/main/Img/top2.png)
 
-![alt text](https://github.com/HeartBIeed/KP1921VG015/blob/main/Img/top.png)
+![alt text](https://github.com/HeartBIeed/K1921VG015/blob/main/Img/top.png)
 
-![alt text](https://github.com/HeartBIeed/KP1921VG015/blob/main/Img/bottom.png)
+![alt text](https://github.com/HeartBIeed/K1921VG015/blob/main/Img/bottom.png)
 
-![alt text](https://github.com/HeartBIeed/KP1921VG015/blob/main/Img/editor.PNG)
+![alt text](https://github.com/HeartBIeed/K1921VG015/blob/main/Img/editor.PNG)
 
 
